@@ -1,10 +1,11 @@
 # Global_Workforce_Analytics
 Analyzing salary distribution patterns, exploring potential pay disparities, and generating insights across demographic and geographic segments.
+
 ---
 
 ## 📊 Project Overview
 
-This project analyzes workforce-related metrics such as salary distribution, sick leave trends, and overtime hours using an interactive dashboard. The insights assist HR and executive teams in optimizing personnel management and strategic planning.
+_This project analyzes workforce-related metrics such as salary distribution, sick leave trends, and overtime hours using an interactive dashboard. The insights assist HR and executive teams in optimizing personnel management and strategic planning._
 
 ---
 
@@ -92,3 +93,6 @@ This project analyzes workforce-related metrics such as salary distribution, sic
 - **Geographical Optimization**: Consider balancing salary allocations more evenly across regions.
 
 ---
+
+## Visualization
+[To view dashboard,click here](https://ibb.co/sdqM31YC)
