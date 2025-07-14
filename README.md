@@ -95,4 +95,5 @@ _This project analyzes workforce-related metrics such as salary distribution, si
 ---
 
 ## Visualization
-[To view dashboard,click here](https://ibb.co/qYy4Hyp1)
+<img width="430" height="422" alt="Screenshot 2025-07-14 160104" src="https://github.com/user-attachments/assets/7578419d-02fa-4575-85d5-9d1290d516fc" />
+
